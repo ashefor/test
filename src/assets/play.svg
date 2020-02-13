@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_1064" data-name="Group 1064" transform="translate(-236 -705)">
+    <path id="Background" d="M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(236 705)" fill="#502eff"/>
+    <path id="Play_Icon" d="M65,325.168a5.079,5.079,0,0,1,7.759-4.4l25.863,15.518a5.093,5.093,0,0,1,0,8.793L72.759,360.6A5.161,5.161,0,0,1,65,356.2m0-31.036" transform="translate(208.165 414.743)" fill="#fafafa" fill-rule="evenodd"/>
+  </g>
+</svg>
