@@ -12,7 +12,6 @@ import dotbg from '../src/assets/dotbg.svg';
 import manbg from '../src/assets/man-bg.svg';
 import { FaFacebookF, FaLinkedinIn, FaCopyright } from "react-icons/fa"; 
 import { IoLogoTwitter, IoLogoDribbble,  IoIosMenu } from "react-icons/io";
-// import 'antd/dist/antd.css';
 import './App.css';
 
 function App() {
