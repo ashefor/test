@@ -18,7 +18,6 @@ import './App.css';
 function App() {
 
   const toggleMenu = () =>{
-    console.log('clicked')
    let menu =  document.querySelector('.menu');
    menu.classList.toggle('menu-open')
   }
